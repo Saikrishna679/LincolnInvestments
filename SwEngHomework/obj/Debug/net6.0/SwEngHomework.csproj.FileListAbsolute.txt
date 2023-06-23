@@ -1,0 +1,12 @@
+C:\Users\AbhinavTyagi\code-challengereddy\SwEngHomework\SwEngHomework\bin\Debug\net6.0\SwEngHomework.deps.json
+C:\Users\AbhinavTyagi\code-challengereddy\SwEngHomework\SwEngHomework\bin\Debug\net6.0\SwEngHomework.dll
+C:\Users\AbhinavTyagi\code-challengereddy\SwEngHomework\SwEngHomework\bin\Debug\net6.0\SwEngHomework.pdb
+C:\Users\AbhinavTyagi\code-challengereddy\SwEngHomework\SwEngHomework\obj\Debug\net6.0\SwEngHomework.csproj.AssemblyReference.cache
+C:\Users\AbhinavTyagi\code-challengereddy\SwEngHomework\SwEngHomework\obj\Debug\net6.0\SwEngHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbhinavTyagi\code-challengereddy\SwEngHomework\SwEngHomework\obj\Debug\net6.0\SwEngHomework.AssemblyInfoInputs.cache
+C:\Users\AbhinavTyagi\code-challengereddy\SwEngHomework\SwEngHomework\obj\Debug\net6.0\SwEngHomework.AssemblyInfo.cs
+C:\Users\AbhinavTyagi\code-challengereddy\SwEngHomework\SwEngHomework\obj\Debug\net6.0\SwEngHomework.csproj.CoreCompileInputs.cache
+C:\Users\AbhinavTyagi\code-challengereddy\SwEngHomework\SwEngHomework\obj\Debug\net6.0\SwEngHomework.dll
+C:\Users\AbhinavTyagi\code-challengereddy\SwEngHomework\SwEngHomework\obj\Debug\net6.0\refint\SwEngHomework.dll
+C:\Users\AbhinavTyagi\code-challengereddy\SwEngHomework\SwEngHomework\obj\Debug\net6.0\SwEngHomework.pdb
+C:\Users\AbhinavTyagi\code-challengereddy\SwEngHomework\SwEngHomework\obj\Debug\net6.0\ref\SwEngHomework.dll
